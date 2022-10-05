@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Whitepaper',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Meet Eyeseek's vision and learn about concepts how to unite (not only) industry by doing good deeds.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Rules',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Learn how to earn money contributing into Eyeseek application, how to become partner or how to apply for crowdfunding campaign.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Announcements',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Overview of closed partnerships, new features, upcoming events and other important news.
       </>
     ),
   },

@@ -1,29 +1,37 @@
 import React from 'react';
-import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
+import styled from 'styled-components'
+
+const StyledHead = styled.div`
+  padding: 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+`
+
+const P = styled.p`
+  font-style: italic;
+`
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    <header>
+    
       <div className="container">
-        <h1>Welcome to eyeseek</h1>
-        <p>Project documentation</p>
+      <StyledHead>
+        <h1>Eyeseek.org - Documentation</h1>
+        <P>Being kind could be fun too</P>
+        </StyledHead>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/whitepaper">
-           Link to whitepaper
+            Start reading
           </Link>
         </div>
       </div>

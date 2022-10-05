@@ -49,6 +49,10 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        gtag: {
+          trackingID: 'G-HNRCHBW5N5',
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
@@ -69,7 +73,6 @@ const config = {
             position: 'left',
             label: 'Whitepaper',
           },
-          {to: '/announcements', label: 'Announcements', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -109,10 +112,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Announcements',
-                to: '/announcements',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',

@@ -14,6 +14,13 @@ const StyledHead = styled.div`
   justify-content: center;
 `
 
+const ButtonRow = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 5%;
+`
+
 const P = styled.p`
   font-style: italic;
 `
@@ -27,13 +34,22 @@ function HomepageHeader() {
         <h1>Eyeseek.org - Documentation</h1>
         <P>Being kind could be fun too</P>
         </StyledHead>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/howTo">
-            Start reading
-          </Link>
-        </div>
+        <ButtonRow>
+          <div className={styles.buttons}>
+            <Link
+              className="button button--secondary button--lg"
+              to="/docs/howTo">
+              Start reading
+            </Link>
+          </div>
+          <div className={styles.buttons}>
+            <Link
+              className="button button--secondary button--lg"
+              to="/docs/funding/intro">
+              Eyeseek funding
+            </Link>
+          </div>
+        </ButtonRow>
       </div>
     </header>
   );

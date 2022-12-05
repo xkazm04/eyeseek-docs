@@ -65,6 +65,12 @@ const config = {
             position: 'left',
             label: 'Whitepaper',
           },
+          {
+            type: 'doc',
+            docId: 'funding/intro',
+            position: 'left',
+            label: 'Funding',
+          },
           // {
           //   href: 'https://github.com/xkazm04/eyeseek-web',
           //   label: 'GitHub',
@@ -81,6 +87,10 @@ const config = {
               {
                 label: 'Whitepaper',
                 to: '/docs/category/whitepaper',
+              },
+              {
+                label: 'Funding',
+                to: '/docs/category/funding',
               },
             ],
           },

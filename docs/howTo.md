@@ -10,6 +10,6 @@ Mobile and web applications contain **three open functional frameworks** , all w
 
 1. **Quests:** _Ask for help or get rewarded for good deeds_
 2. **Shark tank:** _Promote ideas, services, products and get valuable feedback_
-3. **Chain funding:** _Gamified crowdfunding and charity funding_
+3. **Chain funding:** _Gamified crowdfunding and charity funding_. [Rebranded to "Eyeseek Funding"](/docs/funding/intro) during Moralis x Google hackathon event.
 
 Main motivation and challenge of this project is to spread the mentality that **"** _ **being kind could be fun too** _ **"** , applying concepts where addictive social applications or games drain lifetimes for profit and transform the effort rather into support of good deads like self-improving, science and open-source project contribution or charity donation. All in the environment where each user profits from the application's success

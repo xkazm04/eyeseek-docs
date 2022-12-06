@@ -12,6 +12,10 @@ const StyledHead = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
+  margin: 5px;
+  background: rgba(39, 39, 39, 0.1);
+  border-radius: 45px;
+  margin-top: 3%;
 `
 
 const ButtonRow = styled.div`
@@ -19,10 +23,15 @@ const ButtonRow = styled.div`
   flex-direction: row;
   justify-content: center;
   gap: 5%;
+  padding: 2%;
 `
 
 const P = styled.p`
   font-style: italic;
+`
+
+const MyLink = styled(Link)`
+  background: #B0F6FF;
 `
 
 function HomepageHeader() {
@@ -31,7 +40,7 @@ function HomepageHeader() {
     
       <div className="container">
       <StyledHead>
-        <h1>Eyeseek.org - Documentation</h1>
+        <h1>Eyeseek.org - Documentation portal</h1>
         <P>Being kind could be fun too</P>
         </StyledHead>
         <ButtonRow>
@@ -39,15 +48,17 @@ function HomepageHeader() {
             <Link
               className="button button--secondary button--lg"
               to="/docs/howTo">
-              Start reading
+              Eyeseek whitepaper
             </Link>
           </div>
           <div className={styles.buttons}>
-            <Link
+            <MyLink
               className="button button--secondary button--lg"
               to="/docs/funding/intro">
               Eyeseek funding
-            </Link>
+            </MyLink>
+          </div>
+          <div className={styles.buttons}>
           </div>
         </ButtonRow>
       </div>

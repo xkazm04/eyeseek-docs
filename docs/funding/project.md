@@ -5,7 +5,7 @@ sidebar_position: 2
 # Project creation
 
 Anyone with EVM wallet like Metaamsk or WalletConnect can create a project and start accepting donations.
-- no KYC is needed yet
+- **no KYC is needed** yet from both creators and backers.
 
 ## Project creation
 Crowdfunding project is created in [4 simple steps](https://www.fund.eyeseek.org/startproject).
@@ -17,21 +17,33 @@ Crowdfunding project is created in [4 simple steps](https://www.fund.eyeseek.org
 ### 1. Project type & category
 Project type differentiates method of payments used for funding. Categories and subcategories help users to find projects they are interested in.
 
-
 #### Standard type
 Recommended for new projects boosting ideas from scratch.
 - Kickstarter-like donations.
 - Offer usual rewards, ERC20 tokens or ERC1155 NFTs.
 - Supported on Polygon, BNB Chain, Fantom.
 - Microfund strategies, incentivize smaller backers.
- 
 
 #### Stream type
 Ideal for already-built projects looking to fund open-source or non-profit activities.
 - Single-chain payment streaming.
-- Supported only on polygon.
+- Supported only on Polygon.
 - Payment in super token (Wrapped ERC20).
 - Powered by [Superfluid](https://www.superfluid.finance/).
+
+#### Categorization
+There is no restriction what to found outside illegal activities, terrorism, child porn etc.
+By nature of the industry where this project came from, the environment is most friendly for digital projects like:
+- **Startup** tech projects
+- **Web3** applications
+- **Open-source** software
+
+Our team will encourage effort to integrate with Github and [Dework](https://app.dework.xyz) to allow financing specific tasks in product backlog open for freelancers or builders from community.
+
+Although with larger network it is expected quality of the UX will follow and attractivity for traditional crowdfunding project types like
+- Board games
+- Tech gadgets
+- Publications
 
 ### 2. Project story
 Story provides references to the project and its goals. It is displayed on the project page and is used to attract backers.

@@ -11,6 +11,12 @@ App was created as [Moralis x Google hackathon](https://moralis.io/google-hackat
 Goal is to provide cheap and effective crowdfunding platform for teams or individuals with cool ideas and projects primary in software development, web3 and blockchain space.
 Secondary goal is to provide a platform for charity funding and industries outside the tech if demanded.
 
+## The process
+1. Project owner creates a project and sets the goal
+2. During the 30 days, backers can donate to the project via direct donate or microfund deployment
+3. Project owner incentivizes backers to donate by offering rewards (promises, ERC20, ERC1155)
+4. After the period ends, project is closed and two scenarios could happen (success, failure)
+
 ## Features summary
 Eyeseek funding is not just a clone of the Kickstarter, we offer unique features possible only with blockchain technology.
 - **Microfunds** - unique payment structure for larger backers. Each time someone donates, the same amount is charged from deployed microfund/

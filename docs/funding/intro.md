@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# 📚 Introduction
 
 **Eyeseek Funding** is an implementation of the original Eyeseek's **Chain Funding** module -  _Gamified crowdfunding and charity funding_
 

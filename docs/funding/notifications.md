@@ -2,10 +2,8 @@
 sidebar_position: 4  
 ---
 
-# Notifications
+# ⏰ Notifications
 Eyeseek does not require any email or physical address from backers. Only way to communicate with backers is through the application's notifications.
-
-TBD image
 
 |Type|Description|
 |--------|---------|
@@ -14,9 +12,24 @@ TBD image
 |Project funded| Project crowdfunding successfully ended|
 |Reward added | Project creator added a new reward to bookmarked project|
 
-## Bookmark 
+![notification panel](/funding/notis.png)
 
-TBD image
+## Bookmarks 
+You are automatically added to the list of watchers after project backing. You can also add the project to your bookmark list manually.
 
-## Automatic notifications
-User is automatically added as a watcher upon contribution to the project
+![bookmark](/funding/bookmark.png)
+
+All bookmarked could be found in the bookmark panel in section "My" -> "Bookmarks"
+
+![bookmark panel](/funding/mybookmark.png)
+
+### Direct messages
+You can send direct messages to your backers and inform them about the project progress or reward settlement.
+All you need is just filling the message and pass wallet address of the receiver. Message will be displayed in the notification panel.
+
+![direct](/funding/direct.png)
+
+### Reward notifications
+If you wish to notify larger group of backers about the reward settlement, you can use the reward notification tool in **project discover section**.
+
+![reward noti](/funding/rewardnoti.png)

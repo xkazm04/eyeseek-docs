@@ -70,7 +70,7 @@ A benefit of making a social app concept is its target audience, where everyone 
 
 To achieve that, integrations must happen with current web services and companies behind them. Eyeseek will offer **scripts to connect with Shark tank** module easily. From a user perspective **one-click solution to share an idea** or campaign is similar to sharing on Twitter or Facebook. The script will include wallet authentication and a predefined template for promotion.
 
-The **onboarding process** has to be simple to avoid repetitive technical obstacles and **documented for developers, business owners and user** s. Documentation is often underestimated tool for ideas clarification to 3rd parties. We'll mix strategies to distribute essential information across the Eyeseek website, mobile app, and documentation portal with smart search, easy to maintain (tools like Gitbook or Docusaurus).
+The **onboarding process** has to be simple to avoid repetitive technical obstacles and **documented for developers, business owners and users**. Documentation is often underestimated tool for ideas clarification to 3rd parties. We'll mix strategies to distribute essential information across the Eyeseek website, mobile app, and documentation portal with smart search, easy to maintain (tools like Gitbook or Docusaurus).
 
 The success of Eyeseek will depend on the ability to be integrated by partnered projects. Rather than directly compete with other businesses, we will provide a layer from which everyone could benefit and use it as an additional engagement tool in business strategy.
 

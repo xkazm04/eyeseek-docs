@@ -2,8 +2,10 @@
 sidebar_position: 3
 ---
 
-# Rewards
+# 🎖️ Rewards
 As a project owner or fan of created project, you have multiple ways how to incentivize backers to donate to your project via Rewards.
+
+![create a reward](/funding/reward.png)
 
 ## 1. Classic rewards
 Traditional crowdfunding rewards are based on trust between the project owner and backers. 
@@ -51,4 +53,4 @@ Creator can define how much items could be claimed for each reward.
 
 
 --- 
-** TBD reference Medium ** // Youtube
+[Video reference](https://www.youtube.com/watch?v=1iUu2oLOMnM)

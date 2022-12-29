@@ -2,10 +2,12 @@
 sidebar_position: 2
 ---
 
-# Project creation
+# 🚀 Create first project
 
 Anyone with EVM wallet like Metaamsk or WalletConnect can create a project and start accepting donations.
 - **no KYC is needed** yet from both creators and backers.
+
+![create a project](/funding/start.png)
 
 ## Project creation
 Crowdfunding project is created in [4 simple steps](https://www.fund.eyeseek.org/startproject).
@@ -14,7 +16,7 @@ Crowdfunding project is created in [4 simple steps](https://www.fund.eyeseek.org
 - Set funding goal.
 - Create a project on the blockchain.
 
-### 1. Project type & category
+### 1. Project types & categories
 Project type differentiates method of payments used for funding. Categories and subcategories help users to find projects they are interested in.
 
 #### Standard type
@@ -70,4 +72,3 @@ Verify all form inputs in short summary and create a project on the blockchain o
 
 --- 
 *Rewards are created after the project is created. They are not mandatory, but they are a great way to incentivize backers to donate to your project.*
-** TBD reference Medium **
